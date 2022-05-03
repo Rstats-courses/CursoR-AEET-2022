@@ -10,7 +10,7 @@ Sevilla, 19-23 Septiembre 2022.
 
 ## Resumen
 
-El lenguaje y programa estadístico R se ha hecho enormemente popular en los últimos años para el análisis de datos en ecología y otras muchas disciplinas científicas. En este curso, de nivel medio-avanzado, profundizaremos tanto en aspectos de programación en R como lenguaje informático como en algunos de los tipos de análisis estadístico más frecuentes en ecología (modelos generalizados, modelos mixtos, análisis multivariante), visualización de datos, comunicación de resultados y computación reproducible.
+El lenguaje y programa estadístico R se ha hecho enormemente popular en los últimos años para el análisis de datos en ecología y otras muchas disciplinas científicas. En este curso, de nivel medio-avanzado, profundizaremos tanto en aspectos de programación en R como en algunos de los tipos de análisis estadístico más frecuentes en ecología (modelos generalizados, modelos mixtos, análisis multivariante), visualización de datos, computación reproducible y comunicación de resultados.
 
 El curso, aunque contiene cierta base teórica, es fundamentalmente práctico. El método docente se basa en aprender haciendo ("learn by doing"): aprenderemos programación avanzada de R mientras desarrollamos diversos análisis y visualización de datos. Se repasarán diferentes técnicas estadísticas con un componente más práctico que teórico, pero priorizando su uso adecuado.
 
@@ -34,13 +34,13 @@ Mañana: 9:00 - 13:30
 
 Tarde: 15:00 - 17:30
 
-|     |                Mañana               |         Tarde                    |
-|:---:|:-----------------------------------:|:--------------------------------:|
-|  L  | Intro + Data manipulation (*dplyr*) | git & GitHub                     |
-|  M  | Generalised Linear Models           | Data visualisation (*ggplot2*)   |
-|  X  | Mixed/multilevel models             | Practical project                |
-|  J  | Multivariate analyses               | Reproducible science (Rmarkdown) |
-|  V  | R programming + Practical projects  | Using R as a GIS                 |
+|     |                Mañana               |         Tarde                      |
+|:---:|:-----------------------------------:|:----------------------------------:|
+|  L  | Intro + Data manipulation (`dplyr`) | git & GitHub                       |
+|  M  | Generalised Linear Models           | Data visualisation (`ggplot2`)     |
+|  X  | Mixed models / GAM / Bayes          | Students work                      |
+|  J  | Multivariate analyses               | Reproducible science (`Rmarkdown`) |
+|  V  | Using R as GIS + Students work      | Project presentations              |
 
 ## Preparativos
 
