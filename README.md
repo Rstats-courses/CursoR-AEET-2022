@@ -34,13 +34,13 @@ Mañana: 9:00 - 13:30
 
 Tarde: 15:00 - 17:30
 
-|     |                Mañana               |         Tarde                      |
-|:---:|:-----------------------------------:|:----------------------------------:|
-|  L  | Intro + Data manipulation (`dplyr`) | git & GitHub                       |
-|  M  | Generalised Linear Models           | Data visualisation (`ggplot2`)     |
-|  X  | Mixed models / GAM / Bayes          | Students work                      |
-|  J  | Multivariate analyses               | Reproducible science (`Rmarkdown`) |
-|  V  | Using R as GIS + Students work      | Project presentations              |
+|     |                Mañana               |         Tarde                          |
+|:---:|:-----------------------------------:|:--------------------------------------:|
+|  L  | Intro + Data manipulation (`dplyr`) | git & GitHub                           |
+|  M  | Generalised Linear Models           | Data visualisation (`ggplot2`)         |
+|  X  | Mixed models / GAM / Bayes          | Functional programming + Students work |
+|  J  | Multivariate analyses               | Reproducible science (`Rmarkdown`)     |
+|  V  | Using R as GIS + Students work      | Project presentations                  |
 
 ## Preparativos
 
