@@ -36,7 +36,7 @@ Tarde: 15:00 - 17:30
 
 |     |                Mañana               |         Tarde                          |
 |:---:|:-----------------------------------:|:--------------------------------------:|
-|  L  | Intro + Data manipulation (`dplyr`) | git & GitHub                           |
+|  L  | Intro + Data manipulation (`dplyr`) | git / GitHub + Students work           |
 |  M  | Generalised Linear Models           | Data visualisation (`ggplot2`)         |
 |  X  | Mixed models / GAM / Bayes          | Functional programming + Students work |
 |  J  | Multivariate analyses               | Reproducible science (`Rmarkdown`)     |
