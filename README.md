@@ -4,17 +4,25 @@
 
 Curso organizado por la Asociación Española de Ecología Terrestre ([AEET](http://www.aeet.org)), en colaboración con la [Facultad de Biología](https://biologia.us.es/) de la [Universidad de Sevilla](https://www.us.es/).
 
-Impartido por [Ignasi Bartomeus](https://bartomeuslab.com/), [Elena Quintero](https://twitter.com/elequinter) y [Francisco Rodríguez-Sánchez](https://frodriguezsanchez.net/).
+Impartido por [Ignasi Bartomeus](https://bartomeuslab.com/), [Elena Quintero](https://orcid.org/0000-0003-4979-6874) y [Francisco Rodríguez-Sánchez](https://frodriguezsanchez.net/).
 
 Sevilla, 19-23 Septiembre 2022.
 
+
 ## Resumen
 
-El lenguaje y programa estadístico R se ha hecho enormemente popular en los últimos años para el análisis de datos en ecología y otras muchas disciplinas científicas. En este curso, de nivel medio-avanzado, profundizaremos tanto en aspectos de programación en R como en algunos de los tipos de análisis estadístico más frecuentes en ecología (modelos generalizados, modelos mixtos, análisis multivariante), visualización de datos, computación reproducible y comunicación de resultados.
+El lenguaje y programa estadístico R se ha hecho enormemente popular en los últimos años para el análisis de datos en ecología (y otras muchas disciplinas científicas). En este curso, de nivel medio-avanzado, profundizaremos tanto en aspectos de programación en R como en algunos de los tipos de análisis estadístico más frecuentes en ecología (modelos generalizados, modelos mixtos, análisis multivariante), visualización de datos, computación reproducible y comunicación de resultados.
 
-El curso, aunque contiene cierta base teórica, es fundamentalmente práctico. El método docente se basa en aprender haciendo ("learn by doing"): aprenderemos programación avanzada de R mientras desarrollamos diversos análisis y visualización de datos. Se repasarán diferentes técnicas estadísticas con un componente más práctico que teórico, pero priorizando su uso adecuado.
+El curso, aunque contiene cierta base teórica, es fundamentalmente práctico. El método docente se basa en aprender haciendo ("learn by doing"): aprenderemos programación avanzada de R mientras desarrollamos diversos análisis y visualización de datos. Se repasarán diferentes técnicas estadísticas con un componente más práctico que teórico, pero enfatizando la comprensión del funcionamiento de los diversos análisis, errores más comunes, buenas prácticas y su uso adecuado.
 
 El curso es ideal para alumnos que ya utilizan R para analizar datos pero sienten que no están aprovechando a fondo todo el potencial de R ni de sus datos.
+
+
+## Dirigido a
+
+El curso está dirigido a estudiantes fundamentalmente de postgrado, profesores e investigadores con conocimientos básicos de estadística que deseen profundizar en el manejo de R para el análisis de datos en ecología. El curso ofrece la oportunidad de aprender el manejo de una herramienta muy potente y versátil para el análisis de datos, por lo que contribuirá a la formación técnica de alumnos de postgrado con un perfil investigador, así como de investigadores postdoctorales y profesores.
+
+El alumno debe saber interpretar modelos lineales simples y generalizados (regresión lineal, regresión logística) y estar familiarizado con R (importar datos, manejar data frames, hacer gráficas sencillas, ajustar modelos simples tipo lm o glm). Se desaconseja la inscripción de alumnos aún con nivel de iniciación a R, ya que el ritmo del curso es intenso y se haría difícil su aprovechamiento.  
 
 ## Lugar
 
@@ -28,11 +36,11 @@ Avda. Reina Mercedes s/n
 
 ## Programa (tentativo)
 
-Lunes 19 - Viernes 23 Septiembre
+Lunes 19 - Viernes 23 Septiembre 
 
-Mañana: 9:00 - 13:30
+Mañanas: 9:00 - 13:30
 
-Tarde: 15:00 - 17:30
+Tardes: 15:00 - 17:30
 
 |     |                Mañana               |         Tarde                          |
 |:---:|:-----------------------------------:|:--------------------------------------:|
