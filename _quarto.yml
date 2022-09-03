@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "CursoR-AEET-2022-web"
+  sidebar:
+    background: primary
+    logo: "images/logo.png"
+    pinned: true
+    align: center
+    tools:
+      - icon: github
+        href: https://github.com/rstudio-conf-2022/teach-ds-course-website
+        text: GitHub
+    style: docked
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: syllabus.qmd
+        text: Syllabus
+      - href: schedule.qmd
+        text: Schedule
+
+format:
+  html:
+    theme: cosmo
+    # css: styles.css
+    toc: true
+
+
+
