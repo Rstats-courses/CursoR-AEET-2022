@@ -1,0 +1,15 @@
+---
+title: "Preparativos"
+---
+
+Es imprescindible que cada alumno traiga su propio portátil. Previamente al comienzo del curso deberá instalarse:
+
+-   La **última versión** de R (https://cloud.r-project.org/)
+
+-   La **última versión** de [Rstudio](https://www.rstudio.com/products/rstudio/download/)
+
+-   Los paquetes incluidos [aquí](https://raw.githubusercontent.com/Rstats-courses/cursoR-AEET-2022/master/pkgs2install.R), actualizados a su última versión. Probablemente la forma más fácil es ejecutar `source("https://raw.githubusercontent.com/Rstats-courses/cursoR-AEET-2022/master/pkgs2install.R")` desde vuestro R para instalar la última versión de todos los paquetes.
+
+-   Git: instrucciones [aquí](http://happygitwithr.com/install-git.html)
+
+-   Darse de alta en GitHub: <https://github.com/join>

@@ -1,0 +1,62 @@
+---
+title: "Programa"
+---
+
+Lunes 19 - Viernes 23 Septiembre 
+
+Mañanas: 9:00 - 13:30
+
+Tardes: 15:00 - 17:30
+
+|     |                Mañana               |         Tarde                          |
+|:---:|:-----------------------------------:|:--------------------------------------:|
+|  L  | Intro + Data manipulation (`dplyr`) | git / GitHub + Students work           |
+|  M  | Generalised Linear Models           | Data visualisation (`ggplot2`)         |
+|  X  | Mixed models / GAM / Bayes          | Functional programming + Students work |
+|  J  | Multivariate analyses               | Reproducible workflows (`Rmarkdown`)     |
+|  V  | Using R as GIS + Students work      | Project presentations                  |
+
+
+## Materiales
+
+### LUNES
+
+#### Mañana
+
+#### Tarde
+
+
+### LUNES
+
+#### Mañana
+
+#### Tarde
+
+### LUNES
+
+#### Mañana
+
+#### Tarde
+
+
+### LUNES
+
+#### Mañana
+
+#### Tarde
+
+
+### LUNES
+
+#### Mañana
+
+#### Tarde
+
+
+### LUNES
+
+#### Mañana
+
+#### Tarde
+
+

@@ -1,25 +1,26 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "CursoR-AEET-2022-web"
+  title: "CursoR-AEET-2022"
   sidebar:
     background: primary
-    logo: "images/logo.png"
+    # logo: "images/logo.png"
     pinned: true
     align: center
     tools:
       - icon: github
-        href: https://github.com/rstudio-conf-2022/teach-ds-course-website
+        href: https://github.com/Rstats-courses/CursoR-AEET-2022
         text: GitHub
     style: docked
     contents:
       - href: index.qmd
-        text: Home
-      - href: syllabus.qmd
-        text: Syllabus
-      - href: schedule.qmd
-        text: Schedule
+        text: Inicio
+      - href: preparativos.qmd
+        text: Preparativos
+      - href: programa.qmd
+        text: Programa
 
 format:
   html:
@@ -27,5 +28,6 @@ format:
     # css: styles.css
     toc: true
 
-
+execute:
+  freeze: auto
 

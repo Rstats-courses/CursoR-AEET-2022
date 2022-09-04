@@ -43,25 +43,14 @@ Tardes: 15:00 - 17:30
 
 |     |                Mañana               |         Tarde                          |
 |:---:|:-----------------------------------:|:--------------------------------------:|
-|  L  | Intro + Data manipulation (`dplyr`) | git / GitHub + Students work           |
+|  L  | Intro + Data management (`dplyr`)   | git / GitHub + Students work           |
 |  M  | Generalised Linear Models           | Data visualisation (`ggplot2`)         |
 |  X  | Mixed models / GAM / Bayes          | Functional programming + Students work |
 |  J  | Multivariate analyses               | Reproducible science (`Rmarkdown`)     |
 |  V  | Using R as GIS + Students work      | Project presentations                  |
 
-## Preparativos
 
-Es imprescindible que cada alumno traiga su propio portátil. Previamente al comienzo del curso deberá instalarse:
 
--   La **última versión** de R (https://cloud.r-project.org/)
-
--   La **última versión** de [Rstudio](https://www.rstudio.com/products/rstudio/download/)
-
--   Los paquetes incluidos [aquí](https://raw.githubusercontent.com/Rstats-courses/cursoR-AEET-2022/master/pkgs2install.R), actualizados a su última versión. Probablemente la forma más fácil es ejecutar `source("https://raw.githubusercontent.com/Rstats-courses/cursoR-AEET-2022/master/pkgs2install.R")` desde vuestro R para instalar la última versión de todos los paquetes.
-
--   Git: instrucciones [aquí](http://happygitwithr.com/install-git.html)
-
--   Darse de alta en GitHub: <https://github.com/join>
 
 ## Bibliografía recomendada
 
