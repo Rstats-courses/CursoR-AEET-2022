@@ -23,40 +23,40 @@ Tardes: 15:00 - 17:30
 
 #### Mañana
 
+[Introducción](slides/intro.pdf)
+
+
+
 #### Tarde
 
 
-### LUNES
+### MARTES
 
 #### Mañana
 
 #### Tarde
 
-### LUNES
-
-#### Mañana
-
-#### Tarde
-
-
-### LUNES
-
-#### Mañana
-
-#### Tarde
-
-
-### LUNES
+### MIÉRCOLES
 
 #### Mañana
 
 #### Tarde
 
 
-### LUNES
+### JUEVES
 
 #### Mañana
 
 #### Tarde
+
+
+### VIERNES
+
+#### Mañana
+
+#### Tarde
+
+
+
 
 

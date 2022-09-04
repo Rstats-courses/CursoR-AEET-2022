@@ -1,5 +1,5 @@
 ---
-title: "Optimizando el uso de R para el análisis de datos en ecología"
+title: "Optimizando el uso de R para el análisis de datos en Ecología"
 ---
 
 Curso organizado por la Asociación Española de Ecología Terrestre ([AEET](http://www.aeet.org)), en colaboración con la [Facultad de Biología](https://biologia.us.es/) de la [Universidad de Sevilla](https://www.us.es/).
@@ -26,29 +26,11 @@ El alumno debe saber interpretar modelos lineales simples y generalizados (regre
 
 ## Lugar
 
-Facultad de Biología (aula 2.06, edificio rojo)
+Facultad de Biología (aula 2.06, edificio ROJO)
 
 Avda. Reina Mercedes s/n
 
 [Cómo llegar](https://goo.gl/maps/vFWL6eqs85L6zP3n6)
-
-
-## Programa (tentativo)
-
-Lunes 19 - Viernes 23 Septiembre 
-
-Mañanas: 9:00 - 13:30
-
-Tardes: 15:00 - 17:30
-
-|     |                Mañana               |         Tarde                          |
-|:---:|:-----------------------------------:|:--------------------------------------:|
-|  L  | Intro + Data management (`dplyr`)   | git / GitHub + Students work           |
-|  M  | Generalised Linear Models           | Data visualisation (`ggplot2`)         |
-|  X  | Mixed models / GAM / Bayes          | Functional programming + Students work |
-|  J  | Multivariate analyses               | Reproducible science (`Rmarkdown`)     |
-|  V  | Using R as GIS + Students work      | Project presentations                  |
-
 
 
 
@@ -80,7 +62,7 @@ Tardes: 15:00 - 17:30
 
 -   [Geocomputation with R](https://geocompr.robinlovelace.net/)
 
-
+<br>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
