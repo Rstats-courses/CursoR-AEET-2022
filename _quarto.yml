@@ -21,9 +21,12 @@ website:
         text: Preparativos
       - href: programa.qmd
         text: Programa
+      - href: materiales.qmd
+        text: Materiales
       - href: proyectos.qmd
         text: Proyectos
-
+      - href: https://github.com/Rstats-courses/CursoR-AEET-2022/discussions
+        text: Foro
 
 format:
   html:
