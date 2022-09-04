@@ -2,6 +2,8 @@
 title: "Optimizando el uso de R para el análisis de datos en Ecología"
 ---
 
+<https://bit.ly/aeet2022>
+
 Curso organizado por la Asociación Española de Ecología Terrestre ([AEET](http://www.aeet.org)), en colaboración con la [Facultad de Biología](https://biologia.us.es/) de la [Universidad de Sevilla](https://www.us.es/).
 
 Impartido por [Ignasi Bartomeus](https://bartomeuslab.com/), [Elena Quintero](https://orcid.org/0000-0003-4979-6874) y [Francisco Rodríguez-Sánchez](https://frodriguezsanchez.net/).
@@ -22,16 +24,24 @@ El curso es ideal para alumnos que ya utilizan R para analizar datos pero siente
 
 El curso está dirigido a estudiantes fundamentalmente de postgrado, profesores e investigadores con conocimientos básicos de estadística que deseen profundizar en el manejo de R para el análisis de datos en ecología. El curso ofrece la oportunidad de aprender el manejo de una herramienta muy potente y versátil para el análisis de datos, por lo que contribuirá a la formación técnica de alumnos de postgrado con un perfil investigador, así como de investigadores postdoctorales y profesores.
 
-El alumno debe saber interpretar modelos lineales simples y generalizados (regresión lineal, regresión logística) y estar familiarizado con R (importar datos, manejar data frames, hacer gráficas sencillas, ajustar modelos simples tipo lm o glm). Se desaconseja la inscripción de alumnos aún con nivel de iniciación a R, ya que el ritmo del curso es intenso y se haría difícil su aprovechamiento.  
+El alumno debe saber interpretar modelos lineales simples y generalizados (regresión lineal, regresión logística) y estar familiarizado con R (importar datos, manejar data frames, hacer gráficas sencillas, ajustar modelos simples tipo lm o glm). Se desaconseja la inscripción de alumnos aún con nivel de iniciación a R, ya que el ritmo del curso es intenso y se haría difícil su aprovechamiento. Además es necesario tener un nivel básico de inglés ya que muchas diapositivas se presentan en ese idioma. 
 
 ## Lugar
 
-Facultad de Biología (aula 2.06, edificio ROJO)
+Facultad de Biología (Edificio ROJO): Aula 2.06 (segunda planta)
 
 Avda. Reina Mercedes s/n
 
 [Cómo llegar](https://goo.gl/maps/vFWL6eqs85L6zP3n6)
 
+
+## Foro
+
+Foro para debates, preguntas, etc: <https://github.com/Rstats-courses/CursoR-AEET-2022/discussions>
+
+## Feedback
+
+Vuestros comentarios son muy útiles para la mejora continua del curso. Podéis dejar vuestros comentarios en este formulario anónimo: <https://forms.gle/NeY8tghRtLqjU14CA>. ¡Gracias!
 
 
 ## Bibliografía recomendada
@@ -61,6 +71,8 @@ Avda. Reina Mercedes s/n
 -   [Happy git and GitHub for the useR](http://happygitwithr.com/)
 
 -   [Geocomputation with R](https://geocompr.robinlovelace.net/)
+
+- [Eco-stats: data analysis in ecology](https://link.springer.com/book/10.1007/978-3-030-88443-7)
 
 <br>
 

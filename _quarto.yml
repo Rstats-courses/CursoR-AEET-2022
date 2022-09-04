@@ -21,6 +21,9 @@ website:
         text: Preparativos
       - href: programa.qmd
         text: Programa
+      - href: proyectos.qmd
+        text: Proyectos
+
 
 format:
   html:

@@ -1,0 +1,24 @@
+---
+title: "Proyectos"
+---
+
+Todos los asistentes desarrollarán un proyecto práctico por parejas durante la semana del curso, con objeto de practicar lo aprendido (manejo, visualización y análisis de datos, así como flujos de trabajo reproducibles y colaborativos, y presentación de resultados). El lunes se darán las pautas del trabajo, y en la última sesión del viernes se hará una exposición pública.
+
+El tema del proyecto es libre. Algunas sugerencias de datasets con los que trabajar:
+
+- Datos de distribución de especies (por ejemplo de [GBIF](https://gbif.org)) y datos ambientales (p. ej. clima) o de rasgos
+
+- [PREDICTS database](https://www.predicts.org.uk/pages/outputs.html)
+
+- <https://ecologicaldata.org/find-data>
+
+- <https://lter.github.io/lterdatasampler/index.html>
+
+- <https://www.kaggle.com/competitions>
+
+- <https://www.drivendata.org/competitions/>
+
+- [ManyEcoEvo Analysis](https://osf.io/mn5aj/)
+
+Otra opción es intentar reproducir los análisis de un artículo publicado.
+
