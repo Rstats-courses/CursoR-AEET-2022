@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Optimizando el uso de R para el análisis de datos en Ecología",
     "section": "",
-    "text": "Curso organizado por la Asociación Española de Ecología Terrestre (AEET), en colaboración con la Facultad de Biología de la Universidad de Sevilla.\nImpartido por Ignasi Bartomeus, Elena Quintero y Francisco Rodríguez-Sánchez.\nSevilla, 19-23 Septiembre 2022."
+    "text": "https://bit.ly/aeet2022\nCurso organizado por la Asociación Española de Ecología Terrestre (AEET), en colaboración con la Facultad de Biología de la Universidad de Sevilla.\nImpartido por Ignasi Bartomeus, Elena Quintero y Francisco Rodríguez-Sánchez.\nSevilla, 19-23 Septiembre 2022."
   },
   {
     "objectID": "index.html#resumen",
@@ -32,21 +32,42 @@
     "href": "index.html#dirigido-a",
     "title": "Optimizando el uso de R para el análisis de datos en Ecología",
     "section": "Dirigido a",
-    "text": "Dirigido a\nEl curso está dirigido a estudiantes fundamentalmente de postgrado, profesores e investigadores con conocimientos básicos de estadística que deseen profundizar en el manejo de R para el análisis de datos en ecología. El curso ofrece la oportunidad de aprender el manejo de una herramienta muy potente y versátil para el análisis de datos, por lo que contribuirá a la formación técnica de alumnos de postgrado con un perfil investigador, así como de investigadores postdoctorales y profesores.\nEl alumno debe saber interpretar modelos lineales simples y generalizados (regresión lineal, regresión logística) y estar familiarizado con R (importar datos, manejar data frames, hacer gráficas sencillas, ajustar modelos simples tipo lm o glm). Se desaconseja la inscripción de alumnos aún con nivel de iniciación a R, ya que el ritmo del curso es intenso y se haría difícil su aprovechamiento."
+    "text": "Dirigido a\nEl curso está dirigido a estudiantes fundamentalmente de postgrado, profesores e investigadores con conocimientos básicos de estadística que deseen profundizar en el manejo de R para el análisis de datos en ecología. El curso ofrece la oportunidad de aprender el manejo de una herramienta muy potente y versátil para el análisis de datos, por lo que contribuirá a la formación técnica de alumnos de postgrado con un perfil investigador, así como de investigadores postdoctorales y profesores.\nEl alumno debe saber interpretar modelos lineales simples y generalizados (regresión lineal, regresión logística) y estar familiarizado con R (importar datos, manejar data frames, hacer gráficas sencillas, ajustar modelos simples tipo lm o glm). Se desaconseja la inscripción de alumnos aún con nivel de iniciación a R, ya que el ritmo del curso es intenso y se haría difícil su aprovechamiento. Además es necesario tener un nivel básico de inglés ya que muchas diapositivas se presentan en ese idioma."
   },
   {
     "objectID": "index.html#lugar",
     "href": "index.html#lugar",
     "title": "Optimizando el uso de R para el análisis de datos en Ecología",
     "section": "Lugar",
-    "text": "Lugar\nFacultad de Biología (aula 2.06, edificio ROJO)\nAvda. Reina Mercedes s/n\nCómo llegar"
+    "text": "Lugar\nFacultad de Biología (Edificio ROJO): Aula 2.06 (segunda planta)\nAvda. Reina Mercedes s/n\nCómo llegar"
+  },
+  {
+    "objectID": "index.html#foro",
+    "href": "index.html#foro",
+    "title": "Optimizando el uso de R para el análisis de datos en Ecología",
+    "section": "Foro",
+    "text": "Foro\nForo para debates, preguntas, etc: https://github.com/Rstats-courses/CursoR-AEET-2022/discussions"
+  },
+  {
+    "objectID": "index.html#feedback",
+    "href": "index.html#feedback",
+    "title": "Optimizando el uso de R para el análisis de datos en Ecología",
+    "section": "Feedback",
+    "text": "Feedback\nVuestros comentarios son muy útiles para la mejora continua del curso. Podéis dejar vuestros comentarios en este formulario anónimo: https://forms.gle/NeY8tghRtLqjU14CA. ¡Gracias!"
   },
   {
     "objectID": "index.html#bibliografía-recomendada",
     "href": "index.html#bibliografía-recomendada",
     "title": "Optimizando el uso de R para el análisis de datos en Ecología",
     "section": "Bibliografía recomendada",
-    "text": "Bibliografía recomendada\n\nAdvanced R programming\nR for Data Science\nR graphics cookbook\nFundamentals of data visualization\nData visualization: a practical introduction\nGraphical data analysis with R\nAnalysing ecological data\nMixed Effects Models and Extensions in Ecology with R\nData analysis using regression and multilevel/hierarchical models\nNumerical ecology\nNumerical ecology with R\nHappy git and GitHub for the useR\nGeocomputation with R\n\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
+    "text": "Bibliografía recomendada\n\nAdvanced R programming\nR for Data Science\nR graphics cookbook\nFundamentals of data visualization\nData visualization: a practical introduction\nGraphical data analysis with R\nAnalysing ecological data\nMixed Effects Models and Extensions in Ecology with R\nData analysis using regression and multilevel/hierarchical models\nNumerical ecology\nNumerical ecology with R\nHappy git and GitHub for the useR\nGeocomputation with R\nEco-stats: data analysis in ecology\n\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
+  },
+  {
+    "objectID": "proyectos.html",
+    "href": "proyectos.html",
+    "title": "Proyectos",
+    "section": "",
+    "text": "El tema del proyecto es libre. Algunas sugerencias de datasets con los que trabajar:\n\nDatos de distribución de especies (por ejemplo de GBIF) y datos ambientales (p. ej. clima) o de rasgos\nPREDICTS database\nhttps://ecologicaldata.org/find-data\nhttps://lter.github.io/lterdatasampler/index.html\nhttps://www.kaggle.com/competitions\nhttps://www.drivendata.org/competitions/\nManyEcoEvo Analysis\n\nOtra opción es intentar reproducir los análisis de un artículo publicado."
   },
   {
     "objectID": "preparativos.html",
