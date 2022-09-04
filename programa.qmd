@@ -19,10 +19,10 @@ Tardes: 15:00 - 17:30
 
 ## Materiales
 
+[Datasets]()
+
 
 ### LUNES
-
-#### Mañana
 
 - Introduction [slides](slides/intro.pdf)
 
@@ -30,52 +30,35 @@ Tardes: 15:00 - 17:30
 
 - Data management [slides]()
 
-#### Tarde
-
 - Git & GitHub [slides]()
 
 
 
 ### MARTES
 
-#### Mañana
-
 - GLM [slides]()
-
-#### Tarde
 
 - Data visualisation [slides]()
 
 
 ### MIÉRCOLES
 
-#### Mañana
-
 - GLMM [slides]()
-
-#### Tarde
 
 - Functional programming [slides]()
 
 
 ### JUEVES
 
-#### Mañana
-
 - Multivariate analyses [slides]()
-
-#### Tarde
 
 - Reproducible workflows [slides]()
 
 
 ### VIERNES
 
-#### Mañana
-
 - R as GIS [slides]()
 
-#### Tarde
 
 
 
