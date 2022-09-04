@@ -11,7 +11,7 @@
     "href": "programa.html#materiales",
     "title": "Programa",
     "section": "Materiales",
-    "text": "Materiales\n\nLUNES\n\nMañana\n\nIntroduction slides\nCommon-sense stats slides\nData management slides\n\n\n\nTarde\n\nGit & GitHub slides\n\n\n\n\nMARTES\n\nMañana\n\nGLM slides\n\n\n\nTarde\n\nData visualisation slides\n\n\n\n\nMIÉRCOLES\n\nMañana\n\nGLMM slides\n\n\n\nTarde\n\nFunctional programming slides\n\n\n\n\nJUEVES\n\nMañana\n\nMultivariate analyses slides\n\n\n\nTarde\n\nReproducible workflows slides\n\n\n\n\nVIERNES\n\nMañana\n\nR as GIS slides\n\n\n\nTarde"
+    "text": "Materiales\nDatasets\n\nLUNES\n\nIntroduction slides\nCommon-sense stats slides\nData management slides\nGit & GitHub slides\n\n\n\nMARTES\n\nGLM slides\nData visualisation slides\n\n\n\nMIÉRCOLES\n\nGLMM slides\nFunctional programming slides\n\n\n\nJUEVES\n\nMultivariate analyses slides\nReproducible workflows slides\n\n\n\nVIERNES\n\nR as GIS slides"
   },
   {
     "objectID": "index.html",
