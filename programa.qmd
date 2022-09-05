@@ -12,8 +12,8 @@ Tardes: 15:00 - 17:30
 |:---:|:--------------------------------------:|:--------------------------------------:|
 |  L  | Intro + Data management                | git / GitHub + Students work           |
 |  M  | Generalised Linear Models              | Data visualisation (`ggplot2`)         |
-|  X  | Functional programming / Mixed models  | GAM / Bayes                            |
-|  J  | Multivariate analyses                  | Reproducible workflows                 |
+|  X  | Functional programming / Mixed models  | Reproducible workflows                 |
+|  J  | Multivariate analyses                  | GAM / Bayes                            |
 |  V  | Using R as GIS + Students work         | Project presentations                  |
 
 
