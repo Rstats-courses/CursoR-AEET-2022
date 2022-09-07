@@ -22,3 +22,5 @@ El tema del proyecto es libre. Algunas sugerencias de datasets con los que traba
 
 Otra opción es intentar reproducir los análisis de un artículo publicado.
 
+Todos los proyectos se desarrollarán usando GitHub bajo la organización https://github.com/R-AEET-2022. Cada equipo creará un repositorio con su proyecto.
+
