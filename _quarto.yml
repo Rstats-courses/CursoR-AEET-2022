@@ -27,6 +27,9 @@ website:
         text: Proyectos
       - href: https://github.com/Rstats-courses/CursoR-AEET-2022/discussions
         text: Foro
+      - href: https://forms.gle/NeY8tghRtLqjU14CA
+        text: Feedback
+
 
 format:
   html:
