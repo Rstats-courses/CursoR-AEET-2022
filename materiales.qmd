@@ -13,7 +13,7 @@ title: "Materiales"
 
 - Data management [slides]()
 
-- Git & GitHub [slides]()
+- Git & GitHub [slides](slides/github.pdf)
 
 
 
@@ -26,16 +26,18 @@ title: "Materiales"
 
 ### MIÉRCOLES
 
+- Functional programming [slides]()
+
 - GLMM [slides]()
 
-- Functional programming [slides]()
+- Reproducible workflows [slides](slides/Rmarkdown.pdf) [examples](other/Rmarkdown_examples.zip)
 
 
 ### JUEVES
 
 - Multivariate analyses [slides]()
 
-- Reproducible workflows [slides]()
+- GAM + Bayes [slides]()
 
 
 ### VIERNES

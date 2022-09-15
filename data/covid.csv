@@ -1,0 +1,779 @@
+Provincia,Municipio,Poblacion,Casos,Fallecidos
+Cádiz,Algeciras,123078,11945,264
+Cádiz,Barbate,22556,2369,27
+Cádiz,Tarifa,18183,1542,30
+Cádiz,San Roque,31571,3000,50
+Cádiz,Barrios (Los),23777,2164,80
+Cádiz,Conil de la Frontera,22775,2243,10
+Cádiz,Castellar de la Frontera,3057,300,4
+Cádiz,Benalup-Casas Viejas,6986,664,6
+Málaga,Manilva,16439,1540,22
+Cádiz,Vejer de la Frontera,12622,1051,10
+Cádiz,Chiclana de la Frontera,85150,6987,77
+Málaga,Casares,6883,410,12
+Cádiz,San Fernando,95001,8222,110
+Málaga,Estepona,70228,7239,60
+Cádiz,Jimena de la Frontera,6707,548,11
+Málaga,Marbella,147633,18746,233
+Cádiz,Medina Sidonia,11773,793,1
+Cádiz,Paterna de Rivera,5453,541,8
+Málaga,Gaucín,1589,181,3
+Málaga,Genalguacil,393,23,0
+Cádiz,Alcalá de los Gazules,5226,377,3
+Cádiz,Cádiz (capital),115439,8895,96
+Málaga,Benarrabá,446,19,1
+Málaga,Fuengirola,82837,6714,71
+Málaga,Algatocín,814,74,2
+Málaga,Jubrique,523,33,0
+Málaga,Ojén,3816,352,1
+Málaga,Benalauría,438,16,0
+Málaga,Benalmádena,69144,6078,76
+Málaga,Mijas,85397,7205,55
+Cádiz,Puerto Real,41700,3001,26
+Málaga,Pujerra,308,4,0
+Málaga,Benadalid,233,3,0
+Málaga,Benahavís,7748,486,4
+Málaga,Torremolinos,69166,5618,41
+Málaga,Faraján,261,40,1
+Málaga,Monda,2697,274,4
+Málaga,Istán,1494,131,0
+Málaga,Igualeja,752,47,3
+Málaga,Atajate,169,0,0
+Málaga,Júzcar,214,9,0
+Málaga,Cortes de la Frontera,3065,227,3
+Málaga,Jimera de Líbar,379,24,0
+Málaga,Cartajima,242,15,0
+Málaga,Parauta,239,8,0
+Málaga,Alhaurín el Grande,25358,2339,23
+Cádiz,Algar,1428,177,1
+Cádiz,San José del Valle,4433,404,7
+Málaga,Alpandeire,263,18,1
+Málaga,Guaro,2280,190,22
+Cádiz,Ubrique,16605,1496,21
+Málaga,Alhaurín de la Torre,41170,3975,40
+Málaga,Tolox,2136,126,2
+Cádiz,Villaluenga del Rosario,455,26,0
+Cádiz,Puerto de Santa María (El),88703,7132,43
+Málaga,Benaoján,1453,133,1
+Málaga,Coín,22673,2390,25
+Granada,Gualchos,5190,463,7
+Cádiz,Benaocaz,673,45,0
+Málaga,Totalán,737,27,0
+Málaga,Alozaina,2061,140,5
+Málaga,Montejaque,949,117,5
+Málaga,Yunquera,2869,220,7
+Málaga,Algarrobo,6556,446,4
+Granada,Motril,58460,4618,51
+Málaga,Moclinejo,1251,114,2
+Málaga,Macharaviaya,513,9,0
+Málaga,Iznate,907,27,0
+Almería,Balanegra,3105,292,1
+Málaga,Benamocarra,3046,167,2
+Cádiz,Rota,29282,1838,14
+Granada,Salobreña,12513,679,6
+Málaga,Pizarra,9444,854,5
+Almería,Mojonera (La),9191,897,7
+Málaga,Torrox,17943,752,9
+Málaga,Cártama,26738,2382,19
+Cádiz,Bosque (El),2137,181,3
+Granada,Molvízar,2772,164,1
+Granada,Polopos,1722,77,2
+Granada,Rubite,382,8,0
+Granada,Lújar,483,17,0
+Almería,Adra,25412,2649,47
+Granada,Almuñécar,25927,1604,14
+Granada,Jete,927,18,0
+Almería,Ejido (El),83758,8019,88
+Granada,Ítrabo,991,39,0
+Málaga,Almáchar,1817,173,5
+Granada,Sorvilán,527,40,0
+Málaga,Arriate,4082,415,8
+Málaga,Sayalonga,1568,101,3
+Granada,Albuñol,7353,609,7
+Málaga,Borge (El),922,81,1
+Cádiz,Grazalema,2013,217,4
+Málaga,Arenas,1177,48,1
+Málaga,Nerja,21144,1197,14
+Málaga,Frigiliana,3062,117,1
+Málaga,Árchez,385,20,0
+Almería,Roquetas de Mar,98433,7990,85
+Cádiz,Prado del Rey,5590,517,7
+Málaga,Vélez-Málaga,82365,6682,106
+Málaga,Casarabonela,2514,129,3
+Almería,Vícar,26899,2378,34
+Granada,Lentegí,333,18,0
+Granada,Vélez de Benaudalla,2890,174,1
+Málaga,Cómpeta,3967,147,2
+Granada,Albondón,712,20,1
+Málaga,Carratraca,740,34,0
+Cádiz,Arcos de la Frontera,30818,3308,42
+Málaga,Benamargosa,1535,53,0
+Cádiz,Zahara,1379,44,1
+Granada,Otívar,1011,45,1
+Granada,Turón,232,6,0
+Granada,Torvizcón,625,31,0
+Málaga,Salares,173,11,1
+Málaga,Montecorto,586,35,1
+Málaga,Comares,1330,36,0
+Málaga,Canillas de Albaida,759,24,1
+Málaga,Burgo (El),1792,91,0
+Cádiz,Gastor (El),1729,190,4
+Granada,Guájares (Los),1053,31,0
+Málaga,Málaga (capital),578460,57375,754
+Cádiz,Jerez de la Frontera,213105,19723,337
+Almería,Huércal de Almería,17917,1789,19
+Málaga,Viñuela,2055,78,2
+Málaga,Cútar,616,18,1
+Málaga,Sedella,576,10,0
+Málaga,Canillas de Aceituno,1680,46,0
+Málaga,Serrato,482,41,0
+Málaga,Almogía,3792,138,3
+Málaga,Cuevas del Becerro,1597,386,3
+Almería,Berja,12563,816,14
+Almería,Enix,514,13,1
+Almería,Dalías,4066,226,8
+Málaga,Casabermeja,3629,287,1
+Almería,Felix,636,31,0
+Almería,Viator,5978,652,9
+Sevilla,Cuervo de Sevilla (El),8656,899,9
+Granada,Murtas,455,17,2
+Granada,Órgiva,5784,375,5
+Almería,Terque,365,36,4
+Cádiz,Bornos,7654,875,6
+Granada,Carataunas,201,0,0
+Granada,Pinar (El),865,38,2
+Málaga,Ronda,33730,4004,97
+Málaga,Álora,13112,1237,23
+Granada,Almegíjar,337,11,0
+Almería,Benahadux,4481,497,3
+Cádiz,Setenil de las Bodegas,2741,291,11
+Almería,Bentarique,240,16,0
+Cádiz,Sanlúcar de Barrameda,69205,6292,59
+Granada,Lobras,133,3,0
+Cádiz,Trebujena,7016,616,7
+Cádiz,Torre Alháquime,796,39,0
+Málaga,Alcaucín,2279,149,1
+Cádiz,Espera,3869,448,5
+Granada,Játar,623,53,0
+Cádiz,Algodonales,5506,478,8
+Granada,Valle (El),907,68,3
+Granada,Cástaras,235,0,0
+Málaga,Riogordo,2723,162,5
+Málaga,Valle de Abdalajís,2502,111,2
+Granada,Cádiar,1465,53,0
+Almería,Alicún,201,15,0
+Cádiz,Alcalá del Valle,5043,759,26
+Granada,Taha (La),670,75,1
+Almería,Huécija,486,27,0
+Almería,Alhama de Almería,3691,371,8
+Granada,Lecrín,2156,138,5
+Málaga,Villanueva de la Concepción,3288,258,3
+Málaga,Periana,3089,241,2
+Málaga,Colmenar,3409,249,5
+Almería,Pechina,4103,425,7
+Granada,Busquístar,279,56,2
+Granada,Ugíjar,2517,362,7
+Granada,Juviles,135,1,0
+Málaga,Alfarnatejo,364,32,1
+Granada,Jayena,1052,102,1
+Almería,Alcolea,844,37,0
+Granada,Albuñuelas,802,80,0
+Granada,Villamena,934,122,1
+Almería,Almería (capital),201322,22813,268
+Cádiz,Villamartín,12134,1526,22
+Almería,Almócita,176,10,1
+Almería,Rioja,1453,123,0
+Granada,Pórtugos,368,36,0
+Granada,Soportújar,264,18,0
+Granada,Pampaneira,317,13,2
+Granada,Cáñar,377,11,0
+Almería,Alhabia,677,56,0
+Almería,Padules,414,32,1
+Granada,Nigüelas,1185,116,2
+Almería,Níjar,31666,3878,41
+Almería,Íllar,405,69,11
+Granada,Arenas del Rey,653,63,3
+Málaga,Alfarnate,1065,109,3
+Granada,Zafarraya,2120,245,0
+Almería,Instinción,448,58,1
+Granada,Bubión,298,25,1
+Granada,Lanjarón,3530,212,6
+Almería,Alsodux,125,2,0
+Granada,Agrón,260,36,0
+Almería,Santa Fe de Mondújar,461,35,0
+Málaga,Villanueva del Rosario,3362,256,1
+Granada,Dúrcal,7111,832,10
+Granada,Padul,8694,1133,12
+Almería,Carboneras,8105,908,14
+Granada,Capileira,563,42,0
+Cádiz,Olvera,8062,809,14
+Almería,Gádor,3034,248,0
+Sevilla,Algámitas,1253,198,6
+Sevilla,Coripe,1238,74,0
+Almería,Turrillas,248,12,1
+Almería,Santa Cruz de Marchena,199,14,0
+Almería,Rágol,303,22,2
+Cádiz,Puerto Serrano,6942,1031,7
+Málaga,Almargen,1947,303,4
+Málaga,Ardales,2506,212,1
+Sevilla,Pruna,2605,237,2
+Almería,Fondón,994,20,0
+Almería,Beires,120,5,0
+Almería,Canjáyar,1189,43,1
+Málaga,Villanueva del Trabuco,5308,518,6
+Granada,Santa Cruz del Comercio,531,79,1
+Granada,Dílar,2092,169,2
+Granada,Escúzar,791,115,4
+Granada,Bérchules,712,26,0
+Almería,Ohanes,558,23,1
+Granada,Alpujarra de la Sierra,969,33,2
+Almería,Paterna del Río,365,10,0
+Almería,Láujar de Andarax,1527,115,1
+Granada,Válor,677,26,0
+Sevilla,Montellano,7053,846,13
+Granada,Villa de Otura,6982,737,11
+Granada,Ventas de Huelma,657,96,1
+Almería,Alboloduy,609,23,1
+Granada,Nevada,1072,134,8
+Granada,Trevélez,736,62,2
+Sevilla,Lebrija,27578,2407,37
+Almería,Bayárcal,312,25,1
+Sevilla,Cabezas de San Juan (Las),16358,1536,19
+Granada,Gójar,5909,609,4
+Granada,Malahá (La),1784,209,3
+Málaga,Campillos,8387,739,5
+Almería,Lucainena de las Torres,564,10,0
+Granada,Alhendín,9509,1047,14
+Granada,Ogíjares,14348,1873,31
+Granada,Zubia (La),19330,2540,38
+Sevilla,Coronil (El),4717,272,2
+Sevilla,Villanueva de San Juan,1090,59,1
+Granada,Cájar,5205,603,15
+Granada,Monachil,8007,910,7
+Sevilla,Saucejo (El),4235,483,5
+Almería,Tabernas,3717,298,3
+Granada,Alhama de Granada,5867,591,8
+Granada,Cacín,568,22,1
+Granada,Huétor Vega,12035,1574,13
+Granada,Gabias (Las),21543,2545,25
+Granada,Armilla,24340,2974,45
+Granada,Chimeneas,1251,147,2
+Granada,Churriana de la Vega,15689,2044,35
+Granada,Cúllar Vega,7547,939,14
+Granada,Cenes de la Vega,8153,924,12
+Málaga,Archidona,8168,575,16
+Granada,Pinos Genil,1490,161,2
+Granada,Salar,2621,353,2
+Granada,Vegas del Genil,11432,1235,22
+Sevilla,Corrales (Los),3938,404,4
+Sevilla,Martín de la Jara,2665,342,2
+Almería,Turre,3781,359,4
+Almería,Mojácar,6778,701,17
+Málaga,Fuente de Piedra,2662,165,0
+Granada,Dúdar,327,17,0
+Granada,Cijuela,3415,456,8
+Almería,Gallardos (Los),2902,299,4
+Granada,Láchar,3513,520,14
+Granada,Chauchina,5552,981,13
+Málaga,Humilladero,3297,226,1
+Granada,Aldeire,630,74,2
+Málaga,Mollina,5276,342,2
+Almería,Garrucha,9520,838,11
+Málaga,Sierra de Yeguas,3318,373,4
+Almería,Olula de Castro,191,1,0
+Almería,Nacimiento,496,18,0
+Almería,Castro de Filabres,120,1,0
+Almería,Uleila del Campo,822,27,1
+Sevilla,Molares (Los),3518,449,7
+Almería,Sorbas,2436,159,2
+Málaga,Villanueva de Tapia,1460,74,2
+Granada,Moraleda de Zafayona,3117,311,9
+Granada,Maracena,22306,2872,46
+Granada,Santa Fe,15222,2099,57
+Granada,Alquife,580,45,2
+Granada,Granada (capital),233648,33443,582
+Granada,Jun,3853,514,3
+Granada,Dólar,628,46,1
+Almería,Bédar,984,36,0
+Granada,Güéjar Sierra,2857,312,8
+Granada,Jérez del Marquesado,955,77,1
+Granada,Ferreira,301,11,0
+Almería,Tres Villas (Las),565,13,1
+Almería,Abrucena,1183,87,1
+Almería,Benizalón,262,3,0
+Málaga,Antequera,41318,3484,35
+Sevilla,Isla Mayor,5825,493,5
+Granada,Lanteira,564,67,1
+Granada,Huétor Tájar,10399,1377,26
+Granada,Pulianas,5466,807,3
+Granada,Fuente Vaqueros,4384,769,12
+Almería,Abla,1248,106,4
+Málaga,Villanueva de Algaidas,4148,205,1
+Sevilla,Palacios y Villafranca (Los),38548,3968,59
+Almería,Gérgal,1080,52,4
+Granada,Villanueva Mesía,2021,252,4
+Almería,Benitagla,58,0,0
+Granada,Valderrubio,2066,281,2
+Granada,Lugros,310,19,0
+Sevilla,Morón de la Frontera,27633,2014,31
+Almería,Senés,289,10,1
+Granada,Albuñán,409,37,3
+Granada,Polícar,263,7,0
+Granada,Huéneja,1170,83,3
+Granada,Víznar,993,109,1
+Sevilla,Pedrera,5158,700,6
+Málaga,Cuevas Bajas,1370,67,1
+Granada,Peligros,11492,1885,49
+Almería,Velefique,230,3,0
+Granada,Cogollos de Guadix,642,71,3
+Málaga,Alameda,5387,668,6
+Almería,Alcudia de Monteagud,138,1,0
+Almería,Vera,16996,1978,21
+Granada,Calahorra (La),668,106,2
+Granada,Beas de Granada,980,96,2
+Granada,Alfacar,5488,844,10
+Almería,Tahal,336,9,0
+Granada,Güevéjar,2640,250,4
+Granada,Zagra,885,142,2
+Almería,Fiñana,1984,283,5
+Almería,Cóbdar,178,18,0
+Granada,Nívar,1036,110,0
+Sevilla,Roda de Andalucía (La),4175,355,4
+Sevilla,Aguadulce,2035,130,3
+Granada,Quéntar,947,84,2
+Sevilla,Puebla de Cazalla (La),10932,748,10
+Sevilla,Utrera,50962,4627,79
+Almería,Chercos,298,9,0
+Córdoba,Palenciana,1465,151,1
+Málaga,Cuevas de San Marcos,3601,395,17
+Sevilla,Gilena,3727,502,6
+Granada,Beas de Guadix,329,28,0
+Almería,Bacares,250,68,10
+Granada,Loja,20419,2813,59
+Almería,Lubrín,1449,58,1
+Córdoba,Benamejí,4963,733,12
+Granada,Calicasas,638,61,0
+Sevilla,Arahal,19533,2162,39
+Granada,Atarfe,18960,2377,55
+Almería,Antas,3315,496,12
+Granada,Pinos Puente,9894,1613,35
+Sevilla,Lora de Estepa,873,79,0
+Huelva,Palos de la Frontera,11742,1056,9
+Granada,Marchal,414,29,2
+Córdoba,Encinas Reales,2254,169,1
+Almería,Albanchez,687,22,0
+Sevilla,Villamanrique de la Condesa,4477,365,2
+Almería,Líjar,394,24,1
+Granada,Valle del Zalabí,2105,188,2
+Granada,Cogollos de la Vega,2007,319,8
+Huelva,Punta Umbría,15355,1282,5
+Almería,Laroya,198,0,0
+Granada,Cortes y Graena,982,55,2
+Almería,Sierro,379,20,0
+Almería,Bayarque,216,7,1
+Huelva,Isla Cristina,21393,3149,20
+Sevilla,Puebla del Río (La),11920,1001,9
+Sevilla,Coria del Río,30908,2802,25
+Córdoba,Iznájar,4134,262,9
+Almería,Macael,5480,397,8
+Almería,Suflí,196,3,0
+Sevilla,Casariche,5429,795,9
+Granada,Peza (La),1167,87,2
+Granada,Huétor de Santillán,1882,217,1
+Granada,Algarinejo,2467,407,15
+Sevilla,Almensilla,6175,353,7
+Granada,Diezma,764,60,2
+Sevilla,Badolatosa,3079,344,1
+Sevilla,Palomares del Río,8843,591,9
+Sevilla,Aznalcázar,4588,413,8
+Huelva,Moguer,21867,2006,8
+Almería,Armuña de Almanzora,300,33,1
+Huelva,Aljaraque,21474,1644,17
+Granada,Benalúa,3310,415,15
+Huelva,Almonte,24507,2318,20
+Almería,Purchena,1664,87,3
+Sevilla,Estepa,12497,1413,17
+Huelva,Lucena del Puerto,3261,367,3
+Sevilla,Rubio (El),3369,279,4
+Almería,Cantoria,3365,192,2
+Sevilla,Gelves,10193,743,3
+Granada,Íllora,10065,1409,28
+Granada,Deifontes,2600,333,8
+Sevilla,Pilas,13952,1476,8
+Sevilla,Mairena del Aljarafe,46555,3685,36
+Granada,Purullena,2306,279,2
+Granada,Darro,1634,233,3
+Granada,Albolote,18962,2432,28
+Huelva,Rociana del Condado,7939,674,9
+Huelva,Bonares,6060,464,2
+Sevilla,Lantejuela,3846,388,6
+Granada,Montefrío,5313,627,15
+Almería,Alcóntar,514,19,0
+Sevilla,Osuna,17621,1531,15
+Almería,Fines,2104,166,3
+Huelva,Bollullos Par del Condado,14387,1299,10
+Sevilla,Bollullos de la Mitación,10931,688,5
+Sevilla,San Juan de Aznalfarache,21774,1987,54
+Almería,Urrácal,350,30,1
+Sevilla,Tomares,25455,1809,11
+Sevilla,Carrión de los Céspedes,2547,157,2
+Huelva,Hinojos,3961,266,4
+Sevilla,Marinaleda,2592,258,1
+Sevilla,Alcalá de Guadaíra,75533,6530,94
+Almería,Olula del Río,6256,569,4
+Sevilla,Bormujos,22180,1777,20
+Córdoba,Rute,9898,1110,32
+Almería,Cuevas del Almanzora,14455,1440,18
+Sevilla,Benacazón,7222,601,5
+Sevilla,Umbrete,9000,734,1
+Sevilla,Mairena del Alcor,23698,2031,16
+Huelva,Villablanca,2885,286,1
+Huelva,Huelva (capital),143837,12688,106
+Sevilla,Castilleja de la Cuesta,17516,1190,13
+Sevilla,Gines,13428,1006,9
+Huelva,Chucena,2223,203,2
+Almería,Zurgena,2956,182,1
+Granada,Moclín,3622,415,11
+Sevilla,Viso del Alcor (El),19324,2352,20
+Sevilla,Herrera,6464,638,14
+Sevilla,Huévar del Aljarafe,3060,198,2
+Almería,Arboleas,4624,261,6
+Granada,Huélago,401,76,0
+Granada,Gor,744,34,2
+Sevilla,Villanueva del Ariscal,6591,467,3
+Granada,Colomera,1302,263,2
+Almería,Partaloa,1035,39,1
+Sevilla,Castilleja de Guzmán,2833,274,0
+Sevilla,Espartinas,15824,977,11
+Almería,Pulpí,10358,1048,7
+Sevilla,Castilleja del Campo,640,40,0
+Sevilla,Camas,27560,2474,22
+Almería,Serón,2033,129,2
+Sevilla,Marchena,19329,1718,18
+Huelva,Ayamonte,21104,2103,9
+Huelva,Lepe,27880,3044,13
+Huelva,San Juan del Puerto,9411,762,15
+Granada,Morelábor,572,62,0
+Córdoba,Lucena,42733,5009,49
+Granada,Benalúa de las Villas,1054,120,1
+Córdoba,Moriles,3701,482,6
+Almería,Tíjola,3548,350,1
+Almería,Somontín,443,19,1
+Huelva,Cartaya,20083,2083,13
+Sevilla,Dos Hermanas,135050,12123,137
+Granada,Fonelas,978,110,1
+Córdoba,Almedinilla,2370,150,6
+Granada,Píñar,1103,88,3
+Sevilla,Santiponce,8538,924,20
+Granada,Caniles,4021,283,9
+Huelva,San Silvestre de Guzmán,614,25,0
+Córdoba,Puente Genil,29943,3039,54
+Sevilla,Valencina de la Concepción,7776,572,7
+Córdoba,Carcabuey,2371,131,2
+Almería,Lúcar,760,72,0
+Granada,Guadix,18436,2234,51
+Granada,Gobernador,229,7,0
+Sevilla,Albaida del Aljarafe,3201,184,3
+Granada,Dehesas Viejas,688,50,0
+Huelva,Palma del Condado (La),10801,1442,24
+Huelva,Manzanilla,2118,144,1
+Huelva,Villarrasa,2211,234,2
+Huelva,Villalba del Alcor,3366,503,8
+Granada,Torre-Cardela,716,52,1
+Granada,Montillana,1129,138,2
+Córdoba,Monturque,1943,162,0
+Jaén,Frailes,1585,243,4
+Granada,Iznalloz,5120,832,26
+Almería,Taberno,974,41,4
+Sevilla,Salteras,5564,323,2
+Granada,Domingo Pérez de Granada,878,104,2
+Almería,Huércal-Overa,19432,1663,17
+Jaén,Alcalá la Real,21709,2324,53
+Almería,Albox,12083,1277,22
+Huelva,San Bartolomé de la Torre,3761,379,2
+Córdoba,Aguilar de la Frontera,13382,1460,22
+Granada,Campotéjar,1229,122,5
+Sevilla,Algaba (La),16503,2453,17
+Almería,Oria,2239,133,4
+Córdoba,Fuente-Tójar,666,76,2
+Granada,Freila,939,77,2
+Córdoba,Zuheros,635,60,0
+Córdoba,Cabra,20347,1819,28
+Sevilla,Rinconada (La),39062,4213,48
+Granada,Villanueva de las Torres,562,33,1
+Córdoba,Priego de Córdoba,22367,1903,41
+Huelva,Trigueros,7862,546,10
+Huelva,Niebla,4116,367,1
+Córdoba,Doña Mencía,4615,796,0
+Granada,Pedro Martínez,1138,150,6
+Granada,Guadahortuna,1872,166,2
+Huelva,Paterna del Campo,3457,211,2
+Granada,Gorafe,383,20,1
+Huelva,Sanlúcar de Guadiana,403,35,0
+Jaén,Castillo de Locubín,4049,444,13
+Huelva,Villanueva de los Castillejos,2825,210,2
+Huelva,Gibraleón,12737,952,18
+Sevilla,Luisiana (La),4578,374,2
+Córdoba,Montalbán de Córdoba,4467,416,5
+Sevilla,Brenes,12501,1426,13
+Granada,Montejícar,2110,240,6
+Granada,Dehesas de Guadix,422,60,1
+Huelva,Beas,4341,361,5
+Jaén,Noalejo,1932,206,4
+Granada,Alicún de Ortega,471,30,4
+Córdoba,Luque,2976,334,3
+Sevilla,Fuentes de Andalucía,7152,690,7
+Granada,Alamedilla,569,88,1
+Granada,Baza,20430,1898,33
+Jaén,Valdepeñas de Jaén,3679,369,5
+Sevilla,Campana (La),5238,627,4
+Córdoba,Montilla,22739,2119,30
+Sevilla,Paradas,6857,626,6
+Sevilla,Alcalá del Río,12186,1533,12
+Sevilla,Cañada Rosal,3325,231,3
+Sevilla,Tocina,9486,937,8
+Huelva,Granado (El),532,40,3
+Huelva,Escacena del Campo,2287,238,7
+Granada,Cúllar,4091,269,1
+Almería,Vélez-Rubio,6546,690,24
+Córdoba,Santaella,4614,382,2
+Sevilla,Aznalcóllar,6083,297,4
+Sevilla,Olivares,9466,733,7
+Almería,Chirivel,1489,176,9
+Sevilla,Burguillos,6766,652,6
+Jaén,Campillo de Arenas,1751,236,1
+Granada,Cuevas del Campo,1744,168,3
+Sevilla,Villaverde del Río,7842,1108,9
+Sevilla,Gerena,7674,538,1
+Jaén,Fuensanta de Martos,3038,259,3
+Huelva,Berrocal,303,19,1
+Córdoba,Nueva Carteya,5341,504,3
+Granada,Zújar,2544,306,2
+Jaén,Cárcheles,1332,88,2
+Huelva,Valverde del Camino,12750,868,2
+Huelva,Almendro (El),840,59,0
+Córdoba,San Sebastián de los Ballesteros,804,73,1
+Jaén,Alcaudete,10483,756,14
+Córdoba,Montemayor,3856,375,2
+Sevilla,Garrobo (El),782,88,1
+Granada,Benamaurel,2260,163,2
+Huelva,Alosno,3933,232,6
+Sevilla,Cantillana,10736,1682,29
+Sevilla,Alcolea del Río,3347,252,4
+Córdoba,Fernán-Núñez,9651,926,8
+Córdoba,Espejo,3289,209,7
+Huelva,Villanueva de las Cruces,387,20,0
+Sevilla,Écija,39893,3803,65
+Jaén,Villares (Los),6020,755,15
+Jaén,Cambil,2683,340,10
+Córdoba,Carlota (La),14079,984,13
+Córdoba,Victoria (La),2289,121,1
+Sevilla,Madroño (El),287,6,0
+Jaén,Huelma,5744,560,14
+Córdoba,Rambla (La),7529,612,4
+Jaén,Jamilena,3271,350,5
+Granada,Cortes de Baza,1844,100,0
+Huelva,Zalamea la Real,3054,122,2
+Sevilla,Guillena,12903,1168,18
+Jaén,Pegalajar,2875,294,3
+Córdoba,Palma del Río,20928,1673,32
+Jaén,Martos,24343,2178,27
+Sevilla,Villanueva del Río y Minas,4847,543,8
+Jaén,Bélmez de la Moraleda,1569,137,4
+Granada,Galera,1071,84,1
+Jaén,Hinojares,373,20,1
+Sevilla,Lora del Río,18630,2017,25
+Huelva,Minas de Riotinto,3812,182,2
+Jaén,Santiago de Calatrava,675,24,0
+Huelva,Puebla de Guzmán,3092,174,3
+Jaén,Guardia de Jaén (La),4983,555,14
+Huelva,Calañas,2768,243,2
+Jaén,Huesa,2490,399,3
+Córdoba,Castro del Río,7767,663,12
+Huelva,Nerva,5169,252,7
+Córdoba,Valenzuela,1118,52,0
+Sevilla,Peñaflor,3639,271,1
+Córdoba,Fuente Palmera,9766,615,5
+Huelva,Campillo (El),2024,100,1
+Jaén,Larva,474,42,1
+Sevilla,Castillo de las Guardas (El),1468,112,2
+Granada,Castilléjar,1321,116,0
+Córdoba,Guadalcázar,1559,78,1
+Jaén,Albanchez de Mágina,1011,35,1
+Córdoba,Baena,19045,1932,40
+Granada,Orce,1185,86,4
+Jaén,Pozo Alcón,4731,562,7
+Jaén,Cabra del Santo Cristo,1782,144,3
+Sevilla,Castilblanco de los Arroyos,4899,416,10
+Jaén,Higuera de Calatrava,614,43,0
+Jaén,Torres,1372,96,1
+Sevilla,Ronquillo (El),1377,108,4
+Huelva,Campofrío,713,35,0
+Huelva,Granada de Río-Tinto (La),243,5,0
+Jaén,Torredonjimeno,13632,1381,17
+Jaén,Jimena,1269,141,2
+Jaén,Villardompardo,968,73,2
+Huelva,Cerro de Andévalo (El),2327,199,6
+Almería,María,1230,119,0
+Jaén,Quesada,5196,572,11
+Sevilla,Puebla de los Infantes (La),2980,175,2
+Jaén,Escañuela,944,54,0
+Huelva,Cabezas Rubias,706,52,0
+Huelva,Higuera de la Sierra,1291,70,0
+Sevilla,Pedroso (El),2009,125,4
+Jaén,Jódar,11634,1529,15
+Almería,Vélez-Blanco,1874,146,5
+Huelva,Paymogo,1162,85,2
+Huelva,Cortegana,4602,292,2
+Jaén,Porcuna,6156,475,17
+Jaén,Bedmar y Garcíez,2633,278,3
+Córdoba,Posadas,7318,491,4
+Córdoba,Cañete de las Torres,2923,202,3
+Huelva,Santa Bárbara de Casa,1043,46,4
+Huelva,Alájar,759,34,0
+Huelva,Santa Ana la Real,475,22,0
+Huelva,Linares de la Sierra,262,11,0
+Córdoba,Almodóvar del Río,7932,705,6
+Jaén,Fuerte del Rey,1355,175,13
+Jaén,Peal de Becerro,5240,410,9
+Jaén,Mancha Real,11328,1108,12
+Sevilla,Almadén de la Plata,1307,80,2
+Huelva,Castaño del Robledo,228,10,0
+Huelva,Almonaster la Real,1788,87,1
+Granada,Castril,2020,162,1
+Córdoba,Bujalance,7320,652,6
+Huelva,Marines (Los),399,15,0
+Huelva,Puerto Moral,278,5,0
+Huelva,Fuenteheridos,709,13,0
+Jaén,Villatorres,4298,376,7
+Huelva,Jabugo,2260,89,0
+Córdoba,Carpio (El),4363,484,15
+Córdoba,Pedro Abad,2815,426,2
+Jaén,Begíjar,3009,276,1
+Jaén,Arjona,5515,447,10
+Jaén,Lahiguera,1686,164,0
+Huelva,Santa Olalla del Cala,2022,137,0
+Huelva,Zufre,796,20,0
+Sevilla,Constantina,5864,499,9
+Jaén,Cazorla,7352,613,11
+Huelva,Galaroza,1382,55,0
+Jaén,Iruela (La),1879,171,4
+Jaén,Mengíbar,9997,1233,16
+Córdoba,Villafranca de Córdoba,4860,366,2
+Jaén,Cazalilla,803,122,7
+Jaén,Chilluévar,1410,106,2
+Córdoba,Villa del Río,7067,742,7
+Jaén,Torreblascopedro,2508,292,3
+Sevilla,Navas de la Concepción (Las),1542,50,2
+Jaén,Arjonilla,3571,208,6
+Huelva,Corteconcepción,536,46,0
+Jaén,Lopera,3652,455,4
+Sevilla,Real de la Jara (El),1494,60,1
+Huelva,Valdelarco,231,4,1
+Huelva,Aracena,8255,682,17
+Jaén,Lupión,820,60,2
+Córdoba,Córdoba (capital),326039,30145,403
+Jaén,Santo Tomé,2129,210,11
+Sevilla,San Nicolás del Puerto,596,46,1
+Huelva,Cortelazor,299,17,1
+Jaén,Espeluy,620,49,0
+Jaén,Baeza,15791,1725,22
+Granada,Puebla de Don Fadrique,2238,305,4
+Jaén,Jabalquinto,2017,195,3
+Huelva,Cala,1159,36,0
+Sevilla,Cazalla de la Sierra,4684,324,3
+Huelva,Nava (La),258,9,0
+Jaén,Torreperogil,7222,751,16
+Huelva,Hinojales,330,2,0
+Huelva,Cañaveral de León,396,33,0
+Jaén,Canena,1814,135,2
+Granada,Huéscar,7195,872,26
+Jaén,Ibros,2827,240,2
+Huelva,Arroyomolinos de León,947,35,0
+Huelva,Rosal de la Frontera,1697,80,1
+Córdoba,Villaviciosa de Córdoba,3200,142,4
+Jaén,Rus,3531,209,4
+Jaén,Sabiote,3886,387,7
+Huelva,Cumbres Mayores,1749,136,2
+Jaén,Bailén,17548,2247,28
+Huelva,Cumbres de Enmedio,51,1,0
+Huelva,Aroche,3054,131,1
+Jaén,Úbeda,34329,2859,34
+Jaén,Villacarrillo,10673,1185,17
+Sevilla,Alanís,1706,143,1
+Córdoba,Obejo,2008,79,2
+Córdoba,Villaharta,621,40,2
+Jaén,Linares,57353,6881,160
+Jaén,Iznatoraf,942,82,1
+Jaén,Marmolejo,6763,438,9
+Huelva,Cumbres de San Bartolomé,376,13,0
+Córdoba,Hornachuelos,4480,257,5
+Jaén,Villanueva del Arzobispo,8078,869,8
+Sevilla,Guadalcanal,2608,143,4
+Jaén,Guarromán,2739,343,1
+Jaén,Hornos,594,51,0
+Córdoba,Adamuz,4137,308,4
+Jaén,Sorihuela del Guadalimar,1098,79,2
+Córdoba,Villanueva del Rey,1015,106,5
+Córdoba,Montoro,9293,827,26
+Huelva,Encinasola,1310,162,2
+Jaén,Carboneros,591,27,0
+Jaén,Santiago-Pontones,2911,305,7
+Jaén,Arquillos,1722,167,4
+Córdoba,Espiel,2405,130,2
+Jaén,Beas de Segura,5100,585,1
+Jaén,Segura de la Sierra,1803,232,4
+Jaén,Orcera,1791,266,6
+Jaén,Arroyo del Ojanco,2287,308,3
+Jaén,Navas de San Juan,4528,510,4
+Córdoba,Belmez,2921,332,15
+Jaén,Vilches,4409,363,6
+Jaén,Puente de Génave,2159,159,1
+Jaén,Villanueva de la Reina,3038,228,5
+Córdoba,Peñarroya-Pueblonuevo,10561,1308,31
+Jaén,Benatae,445,30,0
+Jaén,Carolina (La),15160,1175,25
+Jaén,Andújar,36615,3094,49
+Córdoba,Cardeña,1471,86,1
+Córdoba,Granjuela (La),439,65,1
+Córdoba,Pozoblanco,17204,1640,24
+Córdoba,Villanueva de Córdoba,8671,786,11
+Jaén,Baños de la Encina,2576,277,1
+Córdoba,Alcaracejos,1470,95,5
+Jaén,Puerta de Segura (La),2234,221,6
+Córdoba,Añora,1530,206,1
+Jaén,Castellar,3292,532,6
+Jaén,Santa Elena,890,62,2
+Córdoba,Villanueva del Duque,1448,75,2
+Córdoba,Fuente la Lancha,342,16,0
+Córdoba,Conquista,366,28,0
+Jaén,Torres de Albánchez,770,33,0
+Jaén,Aldeaquemada,476,76,0
+Jaén,Chiclana de Segura,955,55,0
+Jaén,Montizón,1689,108,1
+Jaén,Santisteban del Puerto,4463,474,8
+Jaén,Génave,590,40,0
+Córdoba,Fuente Obejuna,4501,297,6
+Córdoba,Pedroche,1482,228,15
+Córdoba,Villaralto,1118,14,0
+Jaén,Siles,2220,123,3
+Jaén,Villarrodrigo,391,32,1
+Córdoba,Blázquez (Los),664,48,0
+Córdoba,Torrecampo,1040,101,6
+Córdoba,Valsequillo,348,51,0
+Córdoba,Guijo (El),352,18,0
+Córdoba,Dos Torres,2394,190,2
+Córdoba,Hinojosa del Duque,6707,664,15
+Córdoba,Belalcázar,3235,372,12
+Córdoba,Santa Eufemia,743,93,5
+Córdoba,Viso (El),2517,178,3
+Sevilla,Sevilla (capital),691395,61273,886
+Cádiz,Chipiona,19246,1305,9
+Cádiz,Línea de la Concepción (La),63630,6929,119
+Jaén,Jaén (capital),112757,11914,200
+Jaén,Torredelcampo,14142,2261,37
+Málaga,Teba,3744,518,9
+Málaga,Cañete la Real,1633,164,9
+Málaga,Rincón de la Victoria,48768,3402,42
+Sevilla,Carmona,28834,2757,58
+Sevilla,Sanlúcar la Mayor,13943,907,12
