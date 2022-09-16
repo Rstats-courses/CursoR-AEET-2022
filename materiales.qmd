@@ -11,7 +11,7 @@ title: "Materiales"
 
 - Common-sense stats [slides]()
 
-- Data management [slides]()
+- Data management [slides](slides/data_management_slides.pdf)
 
 - Git & GitHub [slides](slides/github.pdf)
 
