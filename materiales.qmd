@@ -9,7 +9,7 @@ Datasets: [zip file]() [individual datasets](https://github.com/Rstats-courses/C
 
 - Welcome [slides](slides/welcome.pdf)
 
-- Introduction [slides](slides/intro_nacho.html)
+- Introduction [slides](slides/Intro_nacho.html)
 
 - Common-sense stats [slides](slides/CommonSense.html)
 
@@ -44,7 +44,7 @@ Datasets: [zip file]() [individual datasets](https://github.com/Rstats-courses/C
 
 ### VIERNES
 
-- R as GIS [slides]()
+- R as GIS [slides](slides/RasGIS.pdf)
 
 
 
