@@ -1,0 +1,165 @@
+Common Sense Statistics
+========================================================
+author: Ignasi Bartomeus
+date: September 2022
+autosize: true
+
+Common Sense Statistics
+========================================================
+
+![stats](media/Statistics.png)
+
+
+Common Sense Statistics
+========================================================
+
+> "He uses statistics as a drunken man uses lamp-posts... for support rather than illumination." - Andrew Lang (1844-1912)
+
+Have a question
+========================================================
+
+Goal:
+
+- exploratory analysis
+- null hypothesis testing
+- assessing the plausibility of different models
+- interested in the model predictive power
+
+Have a question
+========================================================
+
+<img src="media/Fitting.png" alt="stats" width="400"/>
+
+
+
+Do not expect statistics to be easy
+========================================================
+
+- Dynamic field
+- Opinionated field
+- No cookbooks
+
+> “If you only have a hammer, all your problems will look like nails”
+
+(but do not overdue it -> statistical machismo)
+
+
+Do not expect statistics to be easy
+========================================================
+
+![stats](media/not_log.png)
+![stats](media/log.png)
+
+Do not expect statistics to be easy
+========================================================
+
+![stats](media/log_or_not.png)
+
+Be aware that statistical analysis can hardly fix a bad experimental design or poorly collected data.
+========================================================
+
+> "calling a statistician after the data has been collected is like calling a doctor to do an autopsia"
+
+- Experimenta design
+- Sample size
+- (Power analysis)
+
+Learn about researchers degrees of freedom
+========================================================
+
+- The Garden of forking paths
+- p-hacking
+- Pre-registration?
+
+
+Always plot your data
+========================================================
+
+![stats](media/Regresion.png)
+
+Always plot your data
+========================================================
+
+![stats](media/Anscombe.png)
+
+
+Understand the statistical test you are performing
+========================================================
+
+- model assumptions
+- default parameters
+- toy datasets
+- interpretation
+
+Provide the full details of your statistical analyses.
+========================================================
+
+- Report all test and data manipulation
+- Frequentist: P-value, sample size, estimates and associated errors (SE or CI), coefficient of determination (r2), and interpretable effect sizes.
+- Do not create Post-hoc hypothesis
+- Bayesian CI's ~ p-values
+
+
+Biological significance > statistical significance
+========================================================
+
+![stats](media/Extrapolating.png)
+
+
+Biological significance > statistical significance
+========================================================
+
+```{r uno, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+set.seed(1234)
+d <- data.frame(values = c(rnorm(100,20,2), rnorm(100,20.7,2)),
+                treatment = c(rep("treatment", 100), rep("control", 100)))
+summary(lm(d$values ~ d$treatment))
+```
+
+Biological significance > statistical significance
+========================================================
+
+```{r dos, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+boxplot(d$values ~ d$treatment,
+        xlab = "competition", ylab = "seed set", las = 1)
+```
+
+Biological significance > statistical significance
+========================================================
+
+```{r tres, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+set.seed(1234)
+d <- data.frame(values = c(rnorm(80,20,2),
+                             rnorm(20,30,2), rnorm(80,21,2)),
+                treatment = c(rep("treatment", 100), rep("control", 80)))
+summary(lm(d$values ~ d$treatment))
+```
+
+Biological significance > statistical significance
+========================================================
+
+```{r cuatro, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+boxplot(d$values ~ d$treatment,
+        xlab = "competition", ylab = "seed set", las = 1)
+```
+
+Practice Open Science and reproducibility
+========================================================
+
+- Document choices (Git)
+- Pair programming
+- Code review
+- Errors are fine as long as are honest and we catch them.
+
+
+Common Sense Stastistics
+========================================================
+- Have a question
+- Do not expect statistics to be easy
+- Be aware that statistical analysis can hardly fix a bad experimental design or poorly collected data
+- Learn about researchers degrees of freedom
+- Always plot your data
+- Understand the statistical test you are performing
+- Provide the full details of your statistical analyses
+- Biological significance > statistical significance
+- Practice Open Science and reproducibility
