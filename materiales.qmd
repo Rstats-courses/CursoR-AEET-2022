@@ -2,14 +2,16 @@
 title: "Materiales"
 ---
 
-[Datasets]()
+Datasets: [zip file]() [individual datasets](https://github.com/Rstats-courses/CursoR-AEET-2022/tree/main/data)
 
 
 ### LUNES
 
-- Introduction [slides](slides/intro.pdf)
+- Welcome [slides](slides/welcome.pdf)
 
-- Common-sense stats [slides]()
+- Introduction [slides](slides/intro_nacho.html)
+
+- Common-sense stats [slides](slides/CommonSense.html)
 
 - Data management [slides](slides/data_management_slides.pdf)
 
@@ -19,16 +21,16 @@ title: "Materiales"
 
 ### MARTES
 
-- GLM [slides]()
+- GLM [slides](slides/GLM_etal.pdf)
 
-- Data visualisation [slides]()
+- Data visualisation [slides](slides/data_visualization_slides.pdf)
 
 
 ### MIÉRCOLES
 
-- Functional programming [slides]()
+- Functional programming [script](scripts/Functional_programming.R)
 
-- GLMM [slides]()
+- GLMM [slides](slides/GLM_etal.pdf)
 
 - Reproducible workflows [slides](slides/Rmarkdown.pdf) [examples](other/Rmarkdown_examples.zip)
 
@@ -37,7 +39,7 @@ title: "Materiales"
 
 - Multivariate analyses [slides]()
 
-- GAM + Bayes [slides]()
+- GAM + Bayes [slides](slides/GLM_etal.pdf)
 
 
 ### VIERNES
