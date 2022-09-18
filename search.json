@@ -7,6 +7,13 @@
     "text": "Mañanas: 9:00 - 13:30\nTardes: 15:00 - 17:30\n\n\n\n\n\n\n\n\n\nMañana\nTarde\n\n\n\n\nL\nIntro + Data management\ngit & GitHub\n\n\nM\nGeneralised Linear Models\nData visualisation (ggplot2)\n\n\nX\nFunctional programming + Mixed models\nReproducible workflows\n\n\nJ\nMultivariate analyses\nGAM + Bayes\n\n\nV\nUsing R as GIS + Students work\nProject presentations"
   },
   {
+    "objectID": "slides/Common_Sense/Intro_nacho.html",
+    "href": "slides/Common_Sense/Intro_nacho.html",
+    "title": "CursoR-AEET-2022",
+    "section": "",
+    "text": "R Intro\nFeedback: Email: nacho.bartomeus@gmail.com\nTwitter @ibartomeus\n\n\nClass structure\n\nThere are lots of online R courses and books\nHere we come to make mistakes\nHere we come to solve problems\n\n\n\nAims\n\nLearn you can do anything with R.\nKnow how to google it.\nLose the respect for R.\n\n\n\nStackoverflow.\n\nStackOverflow\nHow do I ask a good question?\nGoogle (e.g. error message + r)\n\n\n\nWhy R?\n\nR has simple and obvious appeal. Through R, you can sift through complex data sets, manipulate data through sophisticated modeling functions, and create sleek graphics to represent the numbers, in just a few lines of code…R’s greatest asset is the vibrant ecosystem has developed around it: The R community is constantly adding new packages and features to its already rich function sets.\n– The 9 Best Languages For Crunching Data\n\n\n\nIs R ?always the right tool?\nNo always. Limitations: - Learning curve; inconsistent syntax - Fragmented documentation (?help, vignettes, etc…) - Quality of packages is heterogeneous. - Bad with Big Data.\nOther tools: - Julia, Python, C++, bash, … - Excel? never.\n\n\nR: Reproducibilidad\n\nIt’s important to make a workflow that you can use time and time again, and even pass on to others in such a way that you don’t have to be there to walk them through it. Source\n\n\nYour closest collaborator is you 6 months ago, and you don’t respond to emails. P. Wilson\n\nInterested: read our paper\n\n\nStyle\n\nDa igual cual sigas, lo importante es tener uno I. Bartomeus\n\nMine: link\ngoogle: Link\n\n\nOpen R studio\n\nscripts\nconsola\nenvironment\nfiles/plots\n\n\n\nProjects\nDir\n1-get_data.R\n2-process_data.R\n3-analyze_data.R\n4-make_graphs.R\ndata/\nfigures/"
+  },
+  {
     "objectID": "slides/Common_Sense/CommonSense.html",
     "href": "slides/Common_Sense/CommonSense.html",
     "title": "CursoR-AEET-2022",
