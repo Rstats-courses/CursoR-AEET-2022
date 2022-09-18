@@ -2,30 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/Rstats-courses/CursoR-AEET-2022/programa.html</loc>
-    <lastmod>2022-09-18T19:31:52.415Z</lastmod>
+    <lastmod>2022-09-18T19:48:16.155Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/Rstats-courses/CursoR-AEET-2022/slides/Multivariante/multivariate.html</loc>
+    <lastmod>2022-09-18T19:48:16.955Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Rstats-courses/CursoR-AEET-2022/slides/Common_Sense/Intro_nacho.html</loc>
-    <lastmod>2022-09-18T19:31:53.127Z</lastmod>
+    <lastmod>2022-09-18T19:48:17.391Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Rstats-courses/CursoR-AEET-2022/slides/Common_Sense/CommonSense.html</loc>
-    <lastmod>2022-09-18T19:31:53.527Z</lastmod>
+    <lastmod>2022-09-18T19:48:17.811Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Rstats-courses/CursoR-AEET-2022/index.html</loc>
-    <lastmod>2022-09-18T19:31:53.891Z</lastmod>
+    <lastmod>2022-09-18T19:48:18.219Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Rstats-courses/CursoR-AEET-2022/proyectos.html</loc>
-    <lastmod>2022-09-18T19:31:54.191Z</lastmod>
+    <lastmod>2022-09-18T19:48:18.559Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Rstats-courses/CursoR-AEET-2022/preparativos.html</loc>
-    <lastmod>2022-09-18T19:31:54.475Z</lastmod>
+    <lastmod>2022-09-18T19:48:18.863Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/Rstats-courses/CursoR-AEET-2022/materiales.html</loc>
-    <lastmod>2022-09-18T19:31:54.760Z</lastmod>
+    <lastmod>2022-09-18T19:48:19.195Z</lastmod>
   </url>
 </urlset>
