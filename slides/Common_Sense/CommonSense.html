@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.1.251">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>CursoR-AEET-2022 – commonsense</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar docked">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">(Untitled)</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-center sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="../../">CursoR-AEET-2022</a> 
+        <div class="sidebar-tools-main">
+    <a href="https://github.com/Rstats-courses/CursoR-AEET-2022" title="GitHub" class="sidebar-tool px-1"><i class="bi bi-github"></i></a>
+</div>
+    </div>
+      </div>
+      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+      </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../index.html" class="sidebar-item-text sidebar-link">Inicio</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../preparativos.html" class="sidebar-item-text sidebar-link">Preparativos</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../programa.html" class="sidebar-item-text sidebar-link">Programa</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../materiales.html" class="sidebar-item-text sidebar-link">Materiales</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../proyectos.html" class="sidebar-item-text sidebar-link">Proyectos</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="https://github.com/Rstats-courses/CursoR-AEET-2022/discussions" class="sidebar-item-text sidebar-link">Foro</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="https://forms.gle/NeY8tghRtLqjU14CA" class="sidebar-item-text sidebar-link">Feedback</a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#common-sense-statistics" id="toc-common-sense-statistics" class="nav-link active" data-scroll-target="#common-sense-statistics">Common Sense Statistics</a></li>
+  <li><a href="#common-sense-statistics-1" id="toc-common-sense-statistics-1" class="nav-link" data-scroll-target="#common-sense-statistics-1">Common Sense Statistics</a></li>
+  <li><a href="#common-sense-statistics-2" id="toc-common-sense-statistics-2" class="nav-link" data-scroll-target="#common-sense-statistics-2">Common Sense Statistics</a></li>
+  <li><a href="#have-a-question" id="toc-have-a-question" class="nav-link" data-scroll-target="#have-a-question">Have a question</a></li>
+  <li><a href="#have-a-question-1" id="toc-have-a-question-1" class="nav-link" data-scroll-target="#have-a-question-1">Have a question</a></li>
+  <li><a href="#do-not-expect-statistics-to-be-easy" id="toc-do-not-expect-statistics-to-be-easy" class="nav-link" data-scroll-target="#do-not-expect-statistics-to-be-easy">Do not expect statistics to be easy</a></li>
+  <li><a href="#do-not-expect-statistics-to-be-easy-1" id="toc-do-not-expect-statistics-to-be-easy-1" class="nav-link" data-scroll-target="#do-not-expect-statistics-to-be-easy-1">Do not expect statistics to be easy</a></li>
+  <li><a href="#do-not-expect-statistics-to-be-easy-2" id="toc-do-not-expect-statistics-to-be-easy-2" class="nav-link" data-scroll-target="#do-not-expect-statistics-to-be-easy-2">Do not expect statistics to be easy</a></li>
+  <li><a href="#be-aware-that-statistical-analysis-can-hardly-fix-a-bad-experimental-design-or-poorly-collected-data." id="toc-be-aware-that-statistical-analysis-can-hardly-fix-a-bad-experimental-design-or-poorly-collected-data." class="nav-link" data-scroll-target="#be-aware-that-statistical-analysis-can-hardly-fix-a-bad-experimental-design-or-poorly-collected-data.">Be aware that statistical analysis can hardly fix a bad experimental design or poorly collected data.</a></li>
+  <li><a href="#learn-about-researchers-degrees-of-freedom" id="toc-learn-about-researchers-degrees-of-freedom" class="nav-link" data-scroll-target="#learn-about-researchers-degrees-of-freedom">Learn about researchers degrees of freedom</a></li>
+  <li><a href="#always-plot-your-data" id="toc-always-plot-your-data" class="nav-link" data-scroll-target="#always-plot-your-data">Always plot your data</a></li>
+  <li><a href="#always-plot-your-data-1" id="toc-always-plot-your-data-1" class="nav-link" data-scroll-target="#always-plot-your-data-1">Always plot your data</a></li>
+  <li><a href="#understand-the-statistical-test-you-are-performing" id="toc-understand-the-statistical-test-you-are-performing" class="nav-link" data-scroll-target="#understand-the-statistical-test-you-are-performing">Understand the statistical test you are performing</a></li>
+  <li><a href="#provide-the-full-details-of-your-statistical-analyses." id="toc-provide-the-full-details-of-your-statistical-analyses." class="nav-link" data-scroll-target="#provide-the-full-details-of-your-statistical-analyses.">Provide the full details of your statistical analyses.</a></li>
+  <li><a href="#biological-significance-statistical-significance" id="toc-biological-significance-statistical-significance" class="nav-link" data-scroll-target="#biological-significance-statistical-significance">Biological significance &gt; statistical significance</a></li>
+  <li><a href="#biological-significance-statistical-significance-1" id="toc-biological-significance-statistical-significance-1" class="nav-link" data-scroll-target="#biological-significance-statistical-significance-1">Biological significance &gt; statistical significance</a></li>
+  <li><a href="#biological-significance-statistical-significance-2" id="toc-biological-significance-statistical-significance-2" class="nav-link" data-scroll-target="#biological-significance-statistical-significance-2">Biological significance &gt; statistical significance</a></li>
+  <li><a href="#biological-significance-statistical-significance-3" id="toc-biological-significance-statistical-significance-3" class="nav-link" data-scroll-target="#biological-significance-statistical-significance-3">Biological significance &gt; statistical significance</a></li>
+  <li><a href="#biological-significance-statistical-significance-4" id="toc-biological-significance-statistical-significance-4" class="nav-link" data-scroll-target="#biological-significance-statistical-significance-4">Biological significance &gt; statistical significance</a></li>
+  <li><a href="#practice-open-science-and-reproducibility" id="toc-practice-open-science-and-reproducibility" class="nav-link" data-scroll-target="#practice-open-science-and-reproducibility">Practice Open Science and reproducibility</a></li>
+  <li><a href="#common-sense-stastistics" id="toc-common-sense-stastistics" class="nav-link" data-scroll-target="#common-sense-stastistics">Common Sense Stastistics</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+
+
+<section id="common-sense-statistics" class="level1">
+<h1>Common Sense Statistics</h1>
+<p>author: Ignasi Bartomeus date: September 2022 autosize: true</p>
+</section>
+<section id="common-sense-statistics-1" class="level1">
+<h1>Common Sense Statistics</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Statistics.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">stats</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="common-sense-statistics-2" class="level1">
+<h1>Common Sense Statistics</h1>
+<blockquote class="blockquote">
+<p>“He uses statistics as a drunken man uses lamp-posts… for support rather than illumination.” - Andrew Lang (1844-1912)</p>
+</blockquote>
+</section>
+<section id="have-a-question" class="level1">
+<h1>Have a question</h1>
+<p>Goal:</p>
+<ul>
+<li>exploratory analysis</li>
+<li>null hypothesis testing</li>
+<li>assessing the plausibility of different models</li>
+<li>interested in the model predictive power</li>
+</ul>
+</section>
+<section id="have-a-question-1" class="level1">
+<h1>Have a question</h1>
+<p><img src="media/Fitting.png" alt="stats" width="400"></p>
+</section>
+<section id="do-not-expect-statistics-to-be-easy" class="level1">
+<h1>Do not expect statistics to be easy</h1>
+<ul>
+<li>Dynamic field</li>
+<li>Opinionated field</li>
+<li>No cookbooks</li>
+</ul>
+<blockquote class="blockquote">
+<p>“If you only have a hammer, all your problems will look like nails”</p>
+</blockquote>
+<p>(but do not overdue it -&gt; statistical machismo)</p>
+</section>
+<section id="do-not-expect-statistics-to-be-easy-1" class="level1">
+<h1>Do not expect statistics to be easy</h1>
+<p><img src="media/not_log.png" class="img-fluid" alt="stats"> <img src="media/log.png" class="img-fluid" alt="stats"></p>
+</section>
+<section id="do-not-expect-statistics-to-be-easy-2" class="level1">
+<h1>Do not expect statistics to be easy</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/log_or_not.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">stats</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="be-aware-that-statistical-analysis-can-hardly-fix-a-bad-experimental-design-or-poorly-collected-data." class="level1">
+<h1>Be aware that statistical analysis can hardly fix a bad experimental design or poorly collected data.</h1>
+<blockquote class="blockquote">
+<p>“calling a statistician after the data has been collected is like calling a doctor to do an autopsia”</p>
+</blockquote>
+<ul>
+<li>Experimenta design</li>
+<li>Sample size</li>
+<li>(Power analysis)</li>
+</ul>
+</section>
+<section id="learn-about-researchers-degrees-of-freedom" class="level1">
+<h1>Learn about researchers degrees of freedom</h1>
+<ul>
+<li>The Garden of forking paths</li>
+<li>p-hacking</li>
+<li>Pre-registration?</li>
+</ul>
+</section>
+<section id="always-plot-your-data" class="level1">
+<h1>Always plot your data</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Regresion.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">stats</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="always-plot-your-data-1" class="level1">
+<h1>Always plot your data</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Anscombe.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">stats</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="understand-the-statistical-test-you-are-performing" class="level1">
+<h1>Understand the statistical test you are performing</h1>
+<ul>
+<li>model assumptions</li>
+<li>default parameters</li>
+<li>toy datasets</li>
+<li>interpretation</li>
+</ul>
+</section>
+<section id="provide-the-full-details-of-your-statistical-analyses." class="level1">
+<h1>Provide the full details of your statistical analyses.</h1>
+<ul>
+<li>Report all test and data manipulation</li>
+<li>Frequentist: P-value, sample size, estimates and associated errors (SE or CI), coefficient of determination (r2), and interpretable effect sizes.</li>
+<li>Do not create Post-hoc hypothesis</li>
+<li>Bayesian CI’s ~ p-values</li>
+</ul>
+</section>
+<section id="biological-significance-statistical-significance" class="level1">
+<h1>Biological significance &gt; statistical significance</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="media/Extrapolating.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">stats</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="biological-significance-statistical-significance-1" class="level1">
+<h1>Biological significance &gt; statistical significance</h1>
+<pre><code>
+Call:
+lm(formula = d$values ~ d$treatment)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-5.7940 -1.3562 -0.2033  1.2013  6.0050 
+
+Coefficients:
+                     Estimate Std. Error t value Pr(&gt;|t|)    
+(Intercept)           20.7825     0.2037 102.036  &lt; 2e-16 ***
+d$treatmenttreatment  -1.0960     0.2880  -3.805 0.000189 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 2.037 on 198 degrees of freedom
+Multiple R-squared:  0.06814,   Adjusted R-squared:  0.06343 
+F-statistic: 14.48 on 1 and 198 DF,  p-value: 0.0001889</code></pre>
+</section>
+<section id="biological-significance-statistical-significance-2" class="level1">
+<h1>Biological significance &gt; statistical significance</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="CommonSense-figure/dos-1.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">plot of chunk dos</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="biological-significance-statistical-significance-3" class="level1">
+<h1>Biological significance &gt; statistical significance</h1>
+<pre><code>
+Call:
+lm(formula = d$values ~ d$treatment)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-6.3779 -2.6385 -0.7762  1.1683 12.5558 
+
+Coefficients:
+                     Estimate Std. Error t value Pr(&gt;|t|)    
+(Intercept)           21.1198     0.4244  49.758   &lt;2e-16 ***
+d$treatmenttreatment   0.5667     0.5695   0.995    0.321    
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Residual standard error: 3.796 on 178 degrees of freedom
+Multiple R-squared:  0.005532,  Adjusted R-squared:  -5.467e-05 
+F-statistic: 0.9902 on 1 and 178 DF,  p-value: 0.321</code></pre>
+</section>
+<section id="biological-significance-statistical-significance-4" class="level1">
+<h1>Biological significance &gt; statistical significance</h1>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="CommonSense-figure/cuatro-1.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">plot of chunk cuatro</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="practice-open-science-and-reproducibility" class="level1">
+<h1>Practice Open Science and reproducibility</h1>
+<ul>
+<li>Document choices (Git)</li>
+<li>Pair programming</li>
+<li>Code review</li>
+<li>Errors are fine as long as are honest and we catch them.</li>
+</ul>
+</section>
+<section id="common-sense-stastistics" class="level1">
+<h1>Common Sense Stastistics</h1>
+<ul>
+<li>Have a question</li>
+<li>Do not expect statistics to be easy</li>
+<li>Be aware that statistical analysis can hardly fix a bad experimental design or poorly collected data</li>
+<li>Learn about researchers degrees of freedom</li>
+<li>Always plot your data</li>
+<li>Understand the statistical test you are performing</li>
+<li>Provide the full details of your statistical analyses</li>
+<li>Biological significance &gt; statistical significance</li>
+<li>Practice Open Science and reproducibility</li>
+</ul>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
