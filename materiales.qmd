@@ -2,7 +2,7 @@
 title: "Materiales"
 ---
 
-[Datasets]()
+[Datasets](data)
 
 
 ### LUNES
@@ -21,7 +21,7 @@ title: "Materiales"
 
 - GLM [slides]()
 
-- Data visualisation [slides]()
+- Data visualisation [slides](slides/data_visualization_slides.pdf)
 
 
 ### MIÉRCOLES
