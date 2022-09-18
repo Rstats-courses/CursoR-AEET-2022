@@ -37,7 +37,7 @@ Datasets: [zip file]() [individual datasets](https://github.com/Rstats-courses/C
 
 ### JUEVES
 
-- Multivariate analyses [slides](slides/multivariate.html) [script](multivariante_notes.R)
+- Multivariate analyses [slides](slides/multivariate.html) [script](scripts/multivariante_notes.R)
 
 - GAM + Bayes [slides](slides/GLM_etal.pdf)
 
