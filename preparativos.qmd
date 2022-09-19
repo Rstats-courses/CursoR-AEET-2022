@@ -14,25 +14,25 @@ Es imprescindible que cada alumno traiga su propio portátil. Previamente al com
 
 -   Instalar y configurar Git: 
 
-  - Primero comprobar si ya tienes git instalado: https://happygitwithr.com/github-acct.html
+    - Primero comprobar si ya tienes git instalado: https://happygitwithr.com/github-acct.html
   
-  - Si no lo tienes instalado, instálalo: https://happygitwithr.com/install-git.html. IMPORTANTE seguir las instrucciones al detalle para evitar problemas después.
+    - Si no lo tienes instalado, instálalo: https://happygitwithr.com/install-git.html. IMPORTANTE seguir las instrucciones al detalle para evitar problemas después.
   
-  - Configurar git: nombre de usuario y email. Se puede hacer directamente desde R mediante el paquete `usethis` o usando la terminal. Instrucciones [AQUÍ](https://happygitwithr.com/hello-git.html#hello-git).
+    - Configurar git: nombre de usuario y email. Se puede hacer directamente desde R mediante el paquete `usethis` o usando la terminal. Instrucciones [AQUÍ](https://happygitwithr.com/hello-git.html#hello-git).
   
-  - (Recomendado) Instalar un cliente para git. Por ejemplo GitHub Desktop o GitKraken. Más info [aquí](https://happygitwithr.com/git-client.html#recommended-git-clients)
+    - (Recomendado) Instalar un cliente para git. Por ejemplo GitHub Desktop o GitKraken. Más info [aquí](https://happygitwithr.com/git-client.html#recommended-git-clients)
   
-Opcionalmente:
+    Opcionalmente:
   
-  - Configurar la Personal Access Token (PAT) de GitHub: instrucciones [aquí](https://happygitwithr.com/https-pat.html#tldr)
+    - Configurar la Personal Access Token (PAT) de GitHub: instrucciones [aquí](https://happygitwithr.com/https-pat.html#tldr)
   
-  - Comprobar la comunicación con GitHub ([instrucciones](https://happygitwithr.com/push-pull-github.html))
+    - Comprobar la comunicación con GitHub ([instrucciones](https://happygitwithr.com/push-pull-github.html))
   
-  - Comprobar comunicación entre Rstudio y git ([instrucciones](https://happygitwithr.com/rstudio-git-github.html))
+    - Comprobar comunicación entre Rstudio y git ([instrucciones](https://happygitwithr.com/rstudio-git-github.html))
   
-  - Si Rstudio no puede detectar git: https://happygitwithr.com/rstudio-see-git.html
+    - Si Rstudio no puede detectar git: https://happygitwithr.com/rstudio-see-git.html
   
-  - Problemas frecuentes: https://happygitwithr.com/troubleshooting.html
+    - Problemas frecuentes: https://happygitwithr.com/troubleshooting.html
   
   
   
