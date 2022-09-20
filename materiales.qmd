@@ -32,7 +32,7 @@ Datasets: [zip file](data/datasets.zip) [individual datasets](https://github.com
 
 - GLMM [slides](slides/GLM_etal.pdf)
 
-- Reproducible workflows [slides](slides/Rmarkdown.pdf) [examples](other/Rmarkdown_examples.zip)
+- Reproducible workflows [slides](slides/ReproducibleScience.pdf) [examples](other/Rmarkdown_examples.zip)
 
 
 ### JUEVES
