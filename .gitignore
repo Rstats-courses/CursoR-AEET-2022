@@ -29,3 +29,4 @@ vignettes/*.pdf
 /.quarto/
 /docs/
 .DS_Store
+easydashboard.html
