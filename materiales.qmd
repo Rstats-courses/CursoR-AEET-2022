@@ -21,7 +21,7 @@ Datasets: [zip file](data/datasets.zip) [individual datasets](https://github.com
 
 ### MARTES
 
-- GLM [slides](slides/GLM_etal.pdf)
+- GLM [slides](slides/GLM_etal.pdf) [scripts](scripts/)
 
 - Data visualisation [slides](slides/data_visualization_slides.pdf)
 
@@ -30,7 +30,7 @@ Datasets: [zip file](data/datasets.zip) [individual datasets](https://github.com
 
 - Functional programming [script](scripts/Functional_programming.R)
 
-- GLMM [slides](slides/GLM_etal.pdf)
+- GLMM [slides](slides/GLM_etal.pdf) [scripts](scripts/)
 
 - Reproducible workflows [slides](slides/ReproducibleScience.pdf) [examples](other/Rmarkdown_examples.zip)
 
@@ -39,12 +39,12 @@ Datasets: [zip file](data/datasets.zip) [individual datasets](https://github.com
 
 - Multivariate analyses [slides](slides/multivariate.html) [script](scripts/multivariante_notes.R)
 
-- GAM + Bayes [slides](slides/GLM_etal.pdf)
+- GAM + Bayes [slides](slides/GLM_etal.pdf) [scripts](scripts/)
 
 
 ### VIERNES
 
-- R as GIS [slides](slides/RasGIS.pdf)
+- R as GIS [slides](slides/RasGIS.pdf) [scripts](scripts/)
 
 
 
